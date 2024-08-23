@@ -1,6 +1,6 @@
 # Premier League Stats Scraper
 
-A web scraping tool to collect team statistics from the Premier League section of the FBRef website and compile them into a CSV file.
+A web scraping tool to collect team statistics from the Premier League and compile them into a CSV file.
 
 ## Features
 
